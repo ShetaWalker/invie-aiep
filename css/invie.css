@@ -55,6 +55,7 @@ body {
     font-size: 35px;
 }
 
+
 .portada {
     background-image: url('../img/background.png');
     color: white;
@@ -70,6 +71,10 @@ body {
     display: inline-block;
     position: absolute;
     right: 0;
+}
+
+a {
+  text-decoration: none;
 }
 
 .menu li {
