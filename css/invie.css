@@ -106,7 +106,7 @@ a {
 .derecha {
     float: right;
     position: relative;
-    top: -129px;
+    top: -128px;
 }
 
 .izquierda {
@@ -128,7 +128,7 @@ a {
 }
 
 .footer {
-    background: #0A9B01;
+    background: #2A6B97;
 }
 
 .contacto {
